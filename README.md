@@ -2,7 +2,7 @@
 GLaTex 是一款识别数学函数式 转换成LaTex 进而转换为图片的个人开发软件。
 
 ### 下载地址
-https://github.com/JHiroGuo/GLaTex/Software/
+https://github.com/JHiroGuo/GLaTex/tree/master/Software
 
 ### 使用
 
@@ -13,7 +13,7 @@ https://github.com/JHiroGuo/GLaTex/Software/
 * 生成LaTex后会在图标下方弹出。点击Save进行保存。
 * 复制文本内容到 MacDown中生成Mathpix.
 
-参考视频(全屏查看)：https://github.com/JHiroGuo/GLaTex/instructions.mp4
+参考视频(全屏查看)：https://github.com/JHiroGuo/GLaTex/blob/master/instructions.mp4
 
 ### 反馈
 Email: gjh_vip@126.com
