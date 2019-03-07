@@ -15,6 +15,15 @@ https://github.com/JHiroGuo/GLaTex/tree/master/Software
 
 参考视频(全屏查看)：https://github.com/JHiroGuo/GLaTex/blob/master/instructions.mp4
 
+gif:
+![avatar](images/001.gif)
+
+![avatar](images/002.gif)
+
+![avatar](images/003.gif)
+
+![avatar](images/004.gif)
+
 ### 反馈
 Email: gjh_vip@126.com
 
